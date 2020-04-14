@@ -9,6 +9,7 @@ and this project adheres (inasmuch as an index-type project can) to [Semantic Ve
 - Working on improving forest indicators to use satellite data on tree cover changes. Anyone who can help with this please get in touch. As of late 2019 this was not possible to do according to the University of Maryland and Global Forest Watch.
 - Considering changing wealth inequality to income inequality.
 - Find better source of pupil:teacher ratio data or a better indicator as this one is the most labour-intensive to update. No centralised figures appear to be kept for many countries, and even within many federalised countries.
+- methods to be documented for v2 in some versionable format
 
 ## [2.7.1] - 2020-14-04
 No changelog previously kept as this was previously a solo private project with a less-than-fastidious custodian. Version 2 is a significantly changed version of the indexes published in 2015 and later in 2018. 
