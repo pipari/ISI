@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres (inasmuch as an index-type project can) to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased/]
+## [Unreleased]
 - Working on improving forest indicators to use satellite data on tree cover changes. Anyone who can help with this please get in touch. As of late 2019 this was not possible to do according to the University of Maryland and Global Forest Watch.
 - Considering changing wealth inequality to income inequality.
 - Find better source of pupil:teacher ratio data or a better indicator as this one is the most labour-intensive to update. No centralised figures appear to be kept for many countries, and even within many federalised countries.
