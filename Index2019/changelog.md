@@ -24,6 +24,7 @@ No changelog previously kept as this was previously a solo private project with 
 - Soc1: Pupil:teacher ratio was averaged over 5 years instead of 10.
 - Soc3: Changed shape of the curve to be linear, and steeper. Removed projected birthrate function.
 - Geometric averaging of dimensions remains but indicators are arithmetically averaged within dimensions. This means there is less overall effect of a very poor score on one indicator, but dimensionally poor scores are still weighted heavily
+- updated list of rejected indicators
 
 ### Removed
 - Satellite data for forests, sadly.
